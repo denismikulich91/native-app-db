@@ -9,14 +9,22 @@
 ## Step 1. Update parameters of the parametric design
 #### Python script runs automatically from EKL script, so user doesn't have to worry about updating database after every change.
 
-https://github.com/denismikulich91/gis-tools-widget/assets/105070976/43efe9dc-6d7f-4283-8dd2-6470e535f95c
+
+
+
+https://github.com/denismikulich91/native-app-db/assets/105070976/0dda4c28-9a95-4437-b2ec-eed639eed8cd
+
 
 
 ## Step 2. Drop widget to the 3DS platform
 #### After loading widget will automatically fetch the required data of the parametric mine.
 ##### NOTE: In case of several tracked UG mine designs sql database will have a few tables eacj dedicated to a specific parametric design. To fetch a specific table user just has to choose a table needed from the drop-down menu in the widget
 
-https://github.com/denismikulich91/gis-tools-widget/assets/105070976/2c7b6df4-9e67-4335-a37d-b4592c0b1fd6
+
+
+https://github.com/denismikulich91/native-app-db/assets/105070976/4eff8339-430f-477a-8e18-7f3d81a8240d
+
+
 
 ## Commands for developers
 
